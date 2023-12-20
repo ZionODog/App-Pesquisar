@@ -6,4 +6,4 @@ Este projeto é um aplicativo que permite pesquisar dados tendo como base uma pl
 </div>
 <br>
 
-<img src="\Screenshot_2.png">
+<img src="\Screenshot_1.png">
